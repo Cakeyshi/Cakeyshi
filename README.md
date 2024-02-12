@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cakeyshi
+- 👋 Hi, I’m Mash
 - 👀 I’m interested on studying all kinds of stuff related to programming
 - 🌱 I’m currently learning Java and Webdev
 - 📫 How to reach me: Discord: smolayaya, Insta: ventiteeee
